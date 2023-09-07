@@ -10,6 +10,4 @@ public class EmoViewServerApiApplication {
     public static void main(String[] args) {
         SpringApplication.run(EmoViewServerApiApplication.class, args);
     }
-
-
 }
